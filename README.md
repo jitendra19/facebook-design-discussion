@@ -211,6 +211,6 @@ Trends ->
 	
 	
 ## References : 
-[https://www.youtube.com/watch?v=9-hjBGxuiEs]
-[https://www.codekarle.com/system-design/facebook-system-design.html]
+1. [youtube](https://www.youtube.com/watch?v=9-hjBGxuiEs)
+2. [codekarle](https://www.codekarle.com/system-design/facebook-system-design.html)
 	
