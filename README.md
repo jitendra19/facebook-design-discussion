@@ -214,4 +214,3 @@ Trends ->
 	from kafka or spark stream
 	hadoop cluster - CLASSFICATION, ML, DL or NLP
 	Spark cluster
-![image](https://user-images.githubusercontent.com/15645692/125944724-b019bd25-37e7-43d1-b963-c40b70bbb3af.png)
