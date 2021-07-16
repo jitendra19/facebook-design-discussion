@@ -4,7 +4,7 @@ Facebook System Design | Instagram System Design | System Design Interview Quest
 https://www.codekarle.com/system-design/facebook-system-design.html
 
 
-A private Community App 
+A private Community App - just like a Community itself is a facebook for users
 
 Login and signup
 
@@ -214,6 +214,4 @@ Trends ->
 	from kafka or spark stream
 	hadoop cluster - CLASSFICATION, ML, DL or NLP
 	Spark cluster
-	
-![image](https://user-images.githubusercontent.com/15645692/125944535-f4988d44-398d-45df-a86e-32c3dff11076.png)
-
+![image](https://user-images.githubusercontent.com/15645692/125944724-b019bd25-37e7-43d1-b963-c40b70bbb3af.png)
