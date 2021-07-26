@@ -215,4 +215,8 @@ Trends ->
 2. [codekarle](https://www.codekarle.com/system-design/facebook-system-design.html)
 3. [design diagram](https://github.com/codekarle/system-design/blob/master/system-design-prep-material/architecture-diagrams/Facebook%20System%20Design.png![image](https://user-images.githubusercontent.com/15645692/126112804-ee1567bc-4ede-4854-bb9b-a0b9d7b9640c.png))
 4. [system design diagram](https://whimsical.com/design-facebook-with-messenger-service-P8LMSrjMAjZMXFVZyN2y9J)
+5. https://www.facebook.com/notes/10158791581867200/
+6. https://www.quora.com/What-is-Facebooks-database-schema
+7. [TAO — Facebook’s Distributed database](https://user-images.githubusercontent.com/15645692/126990994-d7245925-7a1e-4ca6-a42c-1cde643be2eb.png)
+
 	
